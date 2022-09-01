@@ -1,5 +1,26 @@
+/*********************************
+*
+* Author: The milkman
+* Place: behind you
+* Why: for all you SINS
+*
+*********************************/
 
+
+/* Style all P tags */
 p{
     font-size: 18px;
     color: red;
+}
+
+#header p{
+    font-size: 24;
+
+}
+
+/* Style all header tags*/
+
+h1{
+    font-size: 44px;
+    color: aquamarine;
 }
