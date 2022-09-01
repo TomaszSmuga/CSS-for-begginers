@@ -6,18 +6,14 @@
 *
 *********************************/
 
-a{
-    color: black
+article p:first-child{
+
+    font-weight: bold;
+
 }
 
-a:hover {
-    color: blue;
-}
+article p:last-child{
 
-a:active{
     color: green;
-}
-
-a:visited{
-    color: blueviolet;
+    font-weight: 900;
 }
