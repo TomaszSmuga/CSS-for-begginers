@@ -32,9 +32,24 @@ a{
 
 span{
     text-transform: uppercase;
-    text-decoration: underline;
+    display: block;
+    color: blue;
 }
 
 div{
     width: 100%;
+}
+
+h2{
+    font-size: 24px;
+}
+
+#content-header{
+    font-size: 18px;
+    color: rebeccapurple;
+}
+.deck{
+    text-decoration-color: blueviolet;
+    color: aquamarine;
+    text-decoration: underline;
 }
