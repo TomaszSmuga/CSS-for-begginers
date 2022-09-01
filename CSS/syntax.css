@@ -6,17 +6,8 @@
 *
 *********************************/
 
-span[class~="deck"]{
-    color: goldenrod;
-    display: block;
-}
+a:hover{
 
-div[id=main-content]{
-    background-color: gray;
-    color: white;
-}
+color: burlywood;
 
-
-a[href^="http"]{
-    color: aqua;
 }
