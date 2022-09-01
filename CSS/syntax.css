@@ -7,13 +7,20 @@
 *********************************/
 
 
-span{
+body{
+    color: red;
+}
+
+div{
     color: blue;
 
 }
 
-span{
-    color: red;
-    display: block;
-    line-height: 30px;
+p{
+    color: greenyellow;
+}
+
+a{
+    color: rgb(119, 119, 13);
+    text-decoration-color: blue;
 }
