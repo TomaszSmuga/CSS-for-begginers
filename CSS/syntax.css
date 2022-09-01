@@ -6,6 +6,17 @@
 *
 *********************************/
 
-#all-articles h2 + p{
-    color: green;
+span[class~="deck"]{
+    color: goldenrod;
+    display: block;
+}
+
+div[id=main-content]{
+    background-color: gray;
+    color: white;
+}
+
+
+a[href^="http"]{
+    color: aqua;
 }
