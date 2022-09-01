@@ -2,22 +2,14 @@
 *
 * Author: The milkman
 * Place: behind you
-* Why: for all you SINS
+* Why: for all your SINS
 *
 *********************************/
 
-#main-content h2{
-    color: red;
+p{
+    color: red !important;
 }
 
-h2{
-    color: black;
-}
-
-.test{
-    color: gold;
-}
-
-strong{
-    color: gold;
+#main-content p{
+    color: green
 }
