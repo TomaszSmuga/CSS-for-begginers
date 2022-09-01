@@ -6,23 +6,6 @@
 *
 *********************************/
 
-article p:first-child{
-
-    font-weight: bold;
-
-}
-
-article p:last-child{
-
-    color: green;
-    font-weight: 900;
-}
-
-article p:first-of-type{
-
-    text-transform: uppercase;
-}
-
-article p:last-of-type{
-    color: aquamarine;
+li:nth-child(2n + 1){
+    color: blueviolet;
 }
