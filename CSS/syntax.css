@@ -17,3 +17,12 @@ article p:last-child{
     color: green;
     font-weight: 900;
 }
+
+article p:first-of-type{
+
+    text-transform: uppercase;
+}
+
+article p:last-of-type{
+    color: aquamarine;
+}
