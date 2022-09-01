@@ -6,10 +6,10 @@
 *
 *********************************/
 
-li:nth-child(2n + 1){
-    color: blueviolet;
+article.featured-content{
+   background-color: red;
 }
 
-article:nth-of-type(odd){
-    background: lightgoldenrodyellow;
+div.featured-content{
+    background-color: blue;
 }
