@@ -6,21 +6,18 @@
 *
 *********************************/
 
-
-body{
+#main-content h2{
     color: red;
 }
 
-div{
-    color: blue;
-
+h2{
+    color: black;
 }
 
-p{
-    color: greenyellow;
+.test{
+    color: gold;
 }
 
-a{
-    color: rgb(119, 119, 13);
-    text-decoration-color: blue;
+strong{
+    color: gold;
 }
