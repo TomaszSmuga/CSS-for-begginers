@@ -6,8 +6,18 @@
 *
 *********************************/
 
-a:hover{
+a{
+    color: black
+}
 
-color: burlywood;
+a:hover {
+    color: blue;
+}
 
+a:active{
+    color: green;
+}
+
+a:visited{
+    color: blueviolet;
 }
