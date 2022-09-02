@@ -7,8 +7,8 @@
 *********************************/
 
 /* remember that you can put in many fonts*/
-article h2, article p{
 
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+a{
+    text-decoration: line-through;
+    
 }
