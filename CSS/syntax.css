@@ -8,15 +8,6 @@
 
 /* remember that you can put in many fonts*/
 
-h1{
-    font-weight: 300;
-    
-}
-
-*:hover:not(h1){
-    color: brown;
-}
-
-p{
-    font-weight: 900;
+#header p, h1, h2, a{
+    text-transform: uppercase;
 }
