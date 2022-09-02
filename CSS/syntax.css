@@ -8,7 +8,15 @@
 
 /* remember that you can put in many fonts*/
 
-a{
-    text-decoration: line-through;
+h1{
+    font-weight: 300;
     
+}
+
+*:hover:not(h1){
+    color: brown;
+}
+
+p{
+    font-weight: 900;
 }
