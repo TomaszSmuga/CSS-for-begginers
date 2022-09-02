@@ -26,4 +26,18 @@ a:hover{
     word-spacing: 2px;
     line-height: 12px;
     margin-bottom: 32px;
+    width: 500px;
+    height: 50px;
+}
+
+.box{
+    margin: 30px;
+    padding: 30px;
+    border: 5px dotted #000;
+   
+}
+
+.box p{
+    text-align: center;
+    
 }
