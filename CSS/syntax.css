@@ -31,15 +31,18 @@ a:hover{
 }
 
 .box{
-    margin: 30px auto;
-    border: 5px dotted rgb(222, 15, 15);
-    width: 50%;
-    height: 100px;
-    padding: 30px auto;
+    border: double 5px red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    margin: 30px auto
 }
 
 .box p{
     text-align: center;
-    padding: 30px auto;
-    
+}
+
+.small{
+
+    border: dotted dodgerblue 5px;
 }
