@@ -5,6 +5,7 @@
 * Why: for all your SINS
 *
 *********************************/
+/* caniuse.com -> to check if CSS elements work*/
 
 /* remember that you can put in many fonts*/
 
@@ -15,16 +16,20 @@
 
 .static-width{
     width: 300px;
+    border-radius: 100px
 
 }
 
 .percentage-width{
     width: 70%;
     height: 30px;
+    border-radius:10px 20px;
 }
 
 .inline-block{
-    width: 40%;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
     display: inline-block;
     padding: 30px;
 }
