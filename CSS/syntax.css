@@ -8,6 +8,8 @@
 
 /* remember that you can put in many fonts*/
 
-#header p, h1, h2, a{
-    text-transform: uppercase;
+.featured-content p{
+    color: magenta;
+    background-color: blue;
+    
 }
