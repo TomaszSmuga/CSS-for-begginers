@@ -32,10 +32,8 @@ a:hover{
 
 .box{
     border: double 5px red;
-    margin-top: 10px;
-    margin-bottom: 10px;
     width: 300px;
-    margin: 30px auto
+    margin: 50px auto
 }
 
 .box p{
@@ -45,4 +43,43 @@ a:hover{
 .small{
 
     border: dotted dodgerblue 5px;
+}
+
+.dashed{
+    border: dashed 5px red;
+}
+
+.dotted{
+    border: dotted 5px red;
+
+}
+
+.double{
+    border: double 5px red;
+
+}
+
+.groove{
+    border: groove 14px red;
+
+}
+
+.inset{
+    border: inset 20px red;
+
+}
+
+.outset{
+    border: outset 15px red;
+
+}
+
+.ridge{
+    border: ridge 15px red;
+
+}
+
+.solid{
+    border: solid 5px red;
+
 }
