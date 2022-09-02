@@ -83,3 +83,29 @@ a:hover{
     border: solid 5px red;
 
 }
+
+.block{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid brown;
+    width: 150px;
+}
+
+.inline{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid brown;
+ 
+
+}
+
+#link a{
+    padding: 10px;
+    margin: 10px;
+    background-color: #ccc;
+    border: 5px solid #aaa;
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
+}
