@@ -31,9 +31,11 @@ a:hover{
 }
 
 .box{
-    margin: 30px;
-    padding: 30px;
+    margin: 30px auto;
     border: 5px dotted #000;
+    width: 50%;
+    height: 100px;
+    
    
 }
 
