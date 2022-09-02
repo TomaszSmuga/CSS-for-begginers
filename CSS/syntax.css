@@ -6,14 +6,9 @@
 *
 *********************************/
 
-article{
-    font-size: 16px;
-}
+/* remember that you can put in many fonts*/
+article h2, article p{
 
-article h2{
-    font-size: 3em;
-}
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
-article p{
-    font-size: 150%;
 }
