@@ -32,14 +32,14 @@ a:hover{
 
 .box{
     margin: 30px auto;
-    border: 5px dotted #000;
+    border: 5px dotted rgb(222, 15, 15);
     width: 50%;
     height: 100px;
-    
-   
+    padding: 30px auto;
 }
 
 .box p{
     text-align: center;
+    padding: 30px auto;
     
 }
