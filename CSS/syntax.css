@@ -8,104 +8,23 @@
 
 /* remember that you can put in many fonts*/
 
-a{
-    color: gold;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-a:hover{
-    color: greenyellow;
-    text-decoration: underline;
-    background-color: blue;
-}
-
-#main-content p{
-    font-size: 12px;
-    letter-spacing: 2px;
-    word-spacing: 2px;
-    line-height: 12px;
-    margin-bottom: 32px;
-    width: 500px;
-    height: 50px;
-}
-
-.box{
-    border: double 5px red;
-    width: 300px;
-    margin: 50px auto
-}
-
-.box p{
-    text-align: center;
-}
-
-.small{
-
-    border: dotted dodgerblue 5px;
-}
-
-.dashed{
-    border: dashed 5px red;
-}
-
-.dotted{
-    border: dotted 5px red;
-
-}
-
-.double{
-    border: double 5px red;
-
-}
-
-.groove{
-    border: groove 14px red;
-
-}
-
-.inset{
-    border: inset 20px red;
-
-}
-
-.outset{
-    border: outset 15px red;
-
-}
-
-.ridge{
-    border: ridge 15px red;
-
-}
-
-.solid{
-    border: solid 5px red;
-
-}
-
-.block{
-    padding: 10px;
-    margin: 10px;
-    border: 1px solid brown;
-    width: 150px;
-}
-
-.inline{
-    display: inline-block;
-    padding: 10px;
-    margin: 10px;
-    border: 1px solid brown;
- 
-
-}
-
-#link a{
-    padding: 10px;
-    margin: 10px;
+#content div{
     background-color: #ccc;
-    border: 5px solid #aaa;
-    color: #000;
-    text-decoration: none;
+    margin: 0 0 20px 0
+}
+
+.static-width{
+    width: 300px;
+
+}
+
+.percentage-width{
+    width: 70%;
+    height: 30px;
+}
+
+.inline-block{
+    width: 40%;
     display: inline-block;
+    padding: 30px;
 }
